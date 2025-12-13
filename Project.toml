@@ -1,7 +1,7 @@
 name = "ModelingToolkit"
 uuid = "961ee093-0014-501f-94e3-6117800e7a78"
-authors = ["Yingbo Ma <mayingbo5@gmail.com>", "Chris Rackauckas <accounts@chrisrackauckas.com> and contributors"]
 version = "9.33.1"
+authors = ["Yingbo Ma <mayingbo5@gmail.com>", "Chris Rackauckas <accounts@chrisrackauckas.com> and contributors"]
 
 [deps]
 AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
@@ -96,7 +96,7 @@ Libdl = "1"
 LinearAlgebra = "1"
 MLStyle = "0.4.17"
 NaNMath = "0.3, 1"
-NonlinearSolve = "3.14"
+NonlinearSolve = "3.14, 4"
 OrderedCollections = "1"
 OrdinaryDiffEq = "6.82.0"
 PrecompileTools = "1"
